@@ -2,6 +2,8 @@
 
 DataPilot is an AI-first business data agent for asking operational questions in natural language and getting back a concise explanation, SQL, and visualization. It is an independent portfolio project and is not affiliated with Pandata.
 
+Live website : https://datapilot-ai-data-agent-oac3-ovojmwhkz-abdeliouas-projects.vercel.app/
+
 ## Architecture
 
 ```mermaid
